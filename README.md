@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 
 ## Welcome to GitHub Pages diliberate MERGE CONFLICT
 
 ## David branch deliberate MERGE CONFLICT
-## Welcome to GitHub Pages deliberate MERRRGE CONFLICT
+=======
+## Welcome to GitHub Pages deliberate MERGE CONFLICT
+## David branch deliberate MERRRRGE CONFLICT
 
 You can use the [editor on GitHub](https://github.com/Compass-UAL/Compass.Shop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
