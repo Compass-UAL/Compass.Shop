@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 
-## Welcome to GitHub Pages diliberate MERGE CONFLICT ON AVID'S BRANCH BY ME HERE CHANGED
+## Welcome to GitHub Pages diliberate MERGE CONFLICT ON AVID'S CHANGED BY SOMEONE ELSE
 
 ## David branch deliberate MERGE CONFLICT
 =======
